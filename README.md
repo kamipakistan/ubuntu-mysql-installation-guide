@@ -11,7 +11,7 @@ This repository contains a comprehensive guide and accompanying notebook for ins
 7. [Create a New MySQL User and Database (Optional)](#7-create-a-new-mysql-user-and-database-optional)
 8. [Exit MySQL Shell](#8-exit-mysql-shell)
 9. [Install MySQL Workbench](#9-install-mysql-workbench)
-10. [Additional Tips](#10-additional-tips)
+10. [Additional Tips](#additional-tips)
 
 
 
