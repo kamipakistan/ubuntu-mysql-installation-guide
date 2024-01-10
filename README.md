@@ -10,7 +10,7 @@ This repository contains a comprehensive guide and accompanying notebook for ins
 6. [Verification of MySQL Access](https://github.com/kamipakistan/ubuntu-mysql-installation-guide/blob/main/README.md#6-verification-of-mysql-access)
 7. [Create a New MySQL User and Database (Optional)](https://github.com/kamipakistan/ubuntu-mysql-installation-guide/blob/main/README.md#7-create-a-new-mysql-user-and-database-optional)
 8. [Exit MySQL Shell](https://github.com/kamipakistan/ubuntu-mysql-installation-guide/blob/main/README.md#8-exit-mysql-shell)
-9. [Install MySQL Workbench](https://github.com/kamipakistan/ubuntu-mysql-installation-guide/blob/main/README.md#9-install-mysql-workbench)
+9. [Install MySQL Workbench](https://github.com/kamipakistan/ubuntu-mysql-installation-guide/blob/main/README.md#9-exit-mysql-shell)
 10. [Additional Tips](https://github.com/kamipakistan/ubuntu-mysql-installation-guide/blob/main/README.md#additional-tips)
 
 
